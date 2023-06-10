@@ -8,7 +8,7 @@ export default function About() {
       <Head id="us">
         <title>Om Oss</title>
       </Head>
-      <header classNameName="header header-page">
+      <header className="header header-page">
         <Header />
         <PageHeader title="About Us" />
       </header>
