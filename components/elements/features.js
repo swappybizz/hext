@@ -1,9 +1,10 @@
 import { FeaturesData } from "../data/FeaturesData";
 const Features = () => {
   return (
-    <section className="section">
+    <section id="ter" className="section">
       <div className="section-title">
-        <h2>Why Choose Hext</h2>
+        <h2>Terrasse</h2>
+        <h4>På terrasse vi tilbyr:</h4>
       </div>
       <div className="cards">
         {FeaturesData.map((item) => <div key={item.id} className="card">

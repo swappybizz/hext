@@ -1,7 +1,7 @@
 export const ServicesHostingData = [
   {
     id: 1,
-    title: 'Web Hosting',
+    title: 'SkråTak',
     image: '/images/hosting/web-hosting.svg',
     text: 'Faster, secured web hosting with 99% uptime and daily backups.',
     price: '$1 /month',

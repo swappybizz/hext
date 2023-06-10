@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Hext | Free Web Hosting Template</title>
+        <title>Sunnmøre Tak | Din Lokale Taktekker</title>
       </Head>
 			<header className="header header-front">
 				<Header />

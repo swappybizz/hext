@@ -5,15 +5,15 @@ const FrontHero = () => {
       <div className="container">
         <div className="front-hero">
           <div className="front-hero-section front-hero-text">
-            <h1>Fast, Powerful, Secure and Reliable VPS Hosting</h1>
-            <p>High performance Windows VPS and Linux VPS backed by enterprise hardware, 10G network and excellent 24/7 customer care.</p>
+            <h1>Din Lokale Taktekker</h1>
+            <p>Sunnmøre Tak AS er et allsidig firma i takbransjen. Vi tilbyr tak tilpaset til ditt ønske. Våres lange erfaring garanterer profesjonell utførelse av dine prosjekt, tilpaset et krevende norsk kyst klima. Vi tilbyr hjelp til valg av kvalitetmaterialer, faglig rådgiving samt estetisk og langvarig produkt..</p>
             <div className="flex-container">
-              <Link href="/vps/kvm-vps"><a className="button button-primary">KVM VPS</a></Link>
-              <Link href="/dedicated"><a className="button button-secondary">Dedicated Server</a></Link>
+              <Link href="/vps/kvm-vps"><a className="button button-primary">Ring oss ☎️ 46268749</a></Link>
+
             </div>
           </div>{/* front-hero-text */}
           <div className="front-hero-section front-hero-image">
-            <img className="hero-image" src="/images/hero-image.svg" alt="hero image" />
+            <img className="hero-image" src="/images/logo.svg" alt="hero image" />
           </div>{/* front-hero-image */}
         </div>
       </div>
